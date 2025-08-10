@@ -3,6 +3,14 @@ We build a Graph RAG System specifically for the medical domain.
 
 Check our paper here: https://arxiv.org/abs/2408.04187
 
+## 🤖 AI Assistant Guide
+**NEW**: [Quick Start Guide](./AI_ASSISTANT_QUICKSTART.md) - Fast overview of AI assistant capabilities and how to use them
+
+For comprehensive information about using AI assistants with this repository:
+- 📋 [AI Assistant Capabilities Guide](./AI_ASSISTANT_GUIDE.md) - Complete guide to what I can do
+- 🏥 [Medical AI Examples](./AI_ASSISTANT_EXAMPLES.md) - Repository-specific examples and use cases
+- 🧪 **Quick Demo**: Run `python ai_assistant_demo.py` to see capabilities in action
+
 ## Demo
 a docker demo is here: https://hub.docker.com/repository/docker/jundewu/medrag-post/general
  
